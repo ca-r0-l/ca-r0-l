@@ -2,18 +2,22 @@
 
 ![gifffff](https://user-images.githubusercontent.com/8212327/142736740-6b9827a6-b4f5-4c40-a3c1-8932d0b03780.gif)
 
+
+I'm a computer engineer from Brazil 🇧🇷, working as a back-end developer 🗄, but I can do well with front-end projects 🖥.
+
 - 🔭 I’m currently working on [Alice](https://alice.com.br/)
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning data structures and domain driven design
 - 💬 Ask me about Kotlin, Node.js, JS
 - 📫 How to reach me: dev.caroline.ribeiro@gmail.com
-- 😄 Pronouns: ela/she
+- 😄 Pronouns: ela/dela/she/her
 - ⚡ Fun fact: I have thirteen cats 😸 and 5 dogs 🐶
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msfidelis/)](https://www.linkedin.com/in/msfidelis/)
 
-### Tecnologias que conheço
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caroline-ribeiro-andrade)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+### Technologies I know
 
 <br>
 
